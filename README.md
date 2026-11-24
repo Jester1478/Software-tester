@@ -1,7 +1,5 @@
 # Task 2: Test Case Design - GradeCalculator
 
-Method under test: `String gradeOf(int score)` (JUnit 4.13.2, พัฒนาด้วย TDD)
-
 ## Requirements
 
 | ID | ข้อกำหนด |
